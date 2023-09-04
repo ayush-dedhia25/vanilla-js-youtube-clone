@@ -1,0 +1,28 @@
+{
+  "cSpell.words": ["ASMR", "btns", "mobiledata", "opsz", "wght"],
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "storage.type.function.js",
+          "storage.type.js",
+          "keyword.control.conditional.js",
+          "keyword.operator.expression.in.js",
+          "keyword.control.flow.js",
+          "keyword.control.export.js",
+          "keyword.control.default.js",
+          "keyword.control.import.js",
+          "keyword.control.from.js",
+          "keyword.operator.new.js",
+          "constant.language.null.js",
+          "variable.language.this.js",
+          "storage.type.class.js",
+          "entity.other.attribute-name.html"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  }
+}
